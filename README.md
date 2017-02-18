@@ -1,3 +1,3 @@
 # Rab5
-Android robot
-More info in the future
+Android robot. 
+Release 0.0.
